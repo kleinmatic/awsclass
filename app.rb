@@ -1,5 +1,5 @@
 require 'sinatra'
 
-get '/' do 
-  'Hello world!'
+get '/heroku' do
+  erb :heroku
 end
