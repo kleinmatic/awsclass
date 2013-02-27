@@ -1,0 +1,12 @@
+body {
+  background-color: dodgerblue;
+}
+#container {
+  width: 640px;
+  margin: 0 auto;
+}
+usa {
+  font-family: monospace;
+  color: darkgreen;
+  white-space: pre;
+}
